@@ -1,0 +1,19 @@
+{
+  "name": "tomorrowland",
+  "version": "0.0.0",
+  "description": "Write self-destructing code blocks that automatically get removed on expiration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katrynmc/tomorrowland.git"
+  },
+  "author": "Katryn McIntosh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/katrynmc/tomorrowland/issues"
+  },
+  "homepage": "https://github.com/katrynmc/tomorrowland#readme"
+}
