@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/katrynmc/tomorrowland#readme",
   "devDependencies": {
+    "fixturify-project": "^4.0.2",
     "jest": "^27.4.7"
   }
 }
