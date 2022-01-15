@@ -4,7 +4,7 @@
   "description": "Write self-destructing code blocks that automatically get removed on expiration",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/katrynmc/tomorrowland/issues"
   },
-  "homepage": "https://github.com/katrynmc/tomorrowland#readme"
+  "homepage": "https://github.com/katrynmc/tomorrowland#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
 }
