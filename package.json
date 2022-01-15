@@ -19,5 +19,9 @@
   "devDependencies": {
     "fixturify-project": "^4.0.2",
     "jest": "^27.4.7"
+  },
+  "volta": {
+    "node": "16.13.2",
+    "yarn": "1.22.17"
   }
 }
